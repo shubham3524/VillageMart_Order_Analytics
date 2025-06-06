@@ -51,25 +51,25 @@ Performed in **Google Sheets** using the following steps:
 
 #### 💸 Order Amount Overview
 
-![Order Amount Overview](./Screenshot%202025-06-05%20010826.png)
+![Order Amount Overview](https://github.com/shubham3524/VillageMart_Order_Analytics/blob/main/Screenshot%202025-06-05%20010826.png?raw=true)
 
 ---
 
 #### 🏆 Platinum Customer Overview
 
-![Platinum Customer Overview](./Screenshot%202025-06-05%20010958.png)
+![Platinum Customer Overview](https://github.com/shubham3524/VillageMart_Order_Analytics/blob/main/Screenshot%202025-06-05%20010958.png?raw=true)
 
 ---
 
 #### 📈 Frequent Customer Overview
 
-![Frequent Customer Overview](./Screenshot%202025-06-05%20010731.png)
+![Frequent Customer Overview](https://github.com/shubham3524/VillageMart_Order_Analytics/blob/main/Screenshot%202025-06-05%20010731.png?raw=true)
 
 ---
 
 #### ⏳ Recency Dashboard
 
-![Recent Order Overview](./Screenshot%202025-06-05%20010925.png)
+![Recent Order Overview](https://github.com/shubham3524/VillageMart_Order_Analytics/blob/main/Screenshot%202025-06-05%20010925.png?raw=true)
 
 ---
 
